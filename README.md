@@ -1,8 +1,8 @@
 <h1>Hi, I'm Tyler! <br/><a href="https://github.com/TylerOnTech">Programmer</a>, <a href="https://www.linkedin.com/in/tjkunkel/">DevSecOps Professional</a>, <a href="https://www.youtube.com/@TylerOnTech">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Active Directory</b>
+- <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/TylerOnTech)
 
 <h2>📺 Popular YouTube Videos</h2>
