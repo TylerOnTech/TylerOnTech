@@ -3,7 +3,10 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/TylerOnTech)
+- [Active Directory Home Lab](https://github.com/TylerOnTech)
+ 
+ <b>HTML</b>
+  - [Resume Wrote in HTML](https://github.com/TylerOnTech/HTML-Resume)
 
 <h2>📺 Popular YouTube Videos</h2>
 
