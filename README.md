@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>PowerShell</b>
+<b>PowerShell</b>
 - [Active Directory Home Lab](https://github.com/TylerOnTech)
  
  <b>HTML</b>
