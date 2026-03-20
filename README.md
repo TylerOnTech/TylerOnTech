@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! <br/><a href="https://github.com/TylerOnTech">Programmer</a>, <a href="https://www.linkedin.com/in/tjkunkel/">DevSecOps Professional</a>, <a href="https://www.youtube.com/@TylerOnTech">YouTuber</a></h1>
+<h1>Hi, I'm Tyler!</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
