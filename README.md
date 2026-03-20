@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler!</h1>
+<h1>Hi, I'm Tyler! I am an aspiring Machine Learning Enginer and I am a content creator!</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
