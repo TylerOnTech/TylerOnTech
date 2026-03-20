@@ -5,12 +5,8 @@
 <b>PowerShell</b>
 - [Active Directory Home Lab](https://github.com/TylerOnTech)
  
- <b>HTML</b>
-  - [Resume Wrote in HTML](https://github.com/TylerOnTech/HTML-Resume)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial - Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<b>Pythhon</b>
+- [CLI Task Manager]
 
 <h2> 🤳 Connect with me:</h2>
 
