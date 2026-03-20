@@ -5,7 +5,7 @@
 <b>PowerShell</b>
 - [Active Directory Home Lab](https://github.com/TylerOnTech)
  
-<b>Pythhon</b>
+<b>Python</b>
 - [CLI Task Manager](https://github.com/TylerOnTech/CLI_Task_Manager/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
