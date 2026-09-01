@@ -14,9 +14,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- [YouTube:](https://www.youtube.com/@TylerOnTech)
-- [Instagram](https://www.instagram.com/really_low/)
-- [Linkedin](https://linkedin.com/in/tjkunkel)
+- [Click For My YouTube](https://www.youtube.com/@TylerOnTech)
+- [Click For My Instagram](https://www.instagram.com/really_low/)
+- [Click For My LinkedIn](https://linkedin.com/in/tjkunkel)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
