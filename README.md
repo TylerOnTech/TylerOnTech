@@ -1,6 +1,9 @@
-<h1>Hi, I'm Tyler! I am an aspiring Machine Learning Enginer and I am a content creator!</h1>
+<h1>Hi, I'm Tyler!</h1>
 
 <h2>👨‍💻 Projects:</h2>
+
+<b>Long Term Builds</b>
+- [BindHQ](https://github.com/TylerOnTech/bindhq)
 
 <b>PowerShell</b>
 - [Active Directory Home Lab](https://github.com/TylerOnTech)
@@ -10,10 +13,6 @@
 - [Password Strength Anaylyzer](https://github.com/TylerOnTech/Password_Analyzer)
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [youtube]: https://www.youtube.com/@TylerOnTech
 [instagram]: https://www.instagram.com/really_low/
