@@ -1,34 +1,43 @@
-<h1>Hi, I'm Tyler!</h1>
+<a href="https://tylerontech.github.io"><img src="https://tylerontech.github.io/assets/img/og.png" alt="Tyler Kunkel: I build real products, from the database up." width="100%"></a>
 
-<h2>👨‍💻 Projects:</h2>
+# Hi, I'm Tyler 👋
 
-<b>Long Term Builds</b>
-- [BindHQ](https://github.com/TylerOnTech/bindhq)
+Founder of **TyKu Technologies** and co-founder of **Black Box Fragrances**. I design, build, and ship
+full-stack SaaS, from multi-tenant database design all the way to the interface.
 
-<b>PowerShell</b>
-- [Active Directory Home Lab](https://github.com/TylerOnTech)
- 
-<b>Python</b>
-- [CLI Task Manager](https://github.com/TylerOnTech/CLI_Task_Manager)
-- [Password Strength Anaylyzer](https://github.com/TylerOnTech/Password_Analyzer)
+🌐 **Portfolio:** [tylerontech.github.io](https://tylerontech.github.io)<br>
+🔭 **Now:** shipping BindHQ V2: policies, vehicles, drivers, and documents.<br>
+📍 Fort Wayne, Indiana
 
-<h2> 🤳 Connect with me:</h2>
+## 🚀 Featured work
 
-- [Click For My YouTube](https://www.youtube.com/@TylerOnTech)
-- [Click For My Instagram](https://www.instagram.com/really_low/)
-- [Click For My LinkedIn](https://linkedin.com/in/tjkunkel)
+### BindHQ · TyKu Technologies
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An agency management system and CRM for independent insurance agencies. It's a true multi-tenant SaaS,
+with tenant isolation enforced in the database by forced Postgres row-level security. V1 is live in
+production and V2 is in progress.
 
-Here are some ideas to get you started:
+`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Drizzle ORM` `Better Auth` `Tailwind` `Vercel`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Live app](https://bindhq.vercel.app) · [Case study](https://tylerontech.github.io/#work) · Private repo, code walkthrough on request
+
+### Black Box Fragrances · Black Box Media
+
+A personal fragrance decision engine built for an audience of 70,000+. A three-minute taste quiz builds
+your Scent Profile, then every fragrance gets an explainable Match Score and a Bottle Check verdict that
+knows what's already in your collection. Backed by ~880 automated tests.
+
+`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Drizzle ORM` `Playwright` `PostHog` `Vercel`
+
+[blackboxfragrances.com](https://www.blackboxfragrances.com) · [Case study](https://tylerontech.github.io/#work) · Private repo, code walkthrough on request
+
+## 🧰 More projects
+
+- **[Password Analyzer](https://github.com/TylerOnTech/Password_Analyzer)**: a Python CLI that rates
+  password strength using entropy estimates and pattern detection, tested with pytest.
+- **[CLI Task Manager](https://github.com/TylerOnTech/CLI_Task_Manager)**: an interactive Python task
+  manager with JSON persistence, built on the standard library alone.
+
+## 🤳 Connect with me
+
+[Portfolio](https://tylerontech.github.io) · [LinkedIn](https://linkedin.com/in/tjkunkel) · [YouTube](https://www.youtube.com/@TylerOnTech) · [Instagram](https://www.instagram.com/really_low/) · [Email](mailto:tylerkunkel1629@gmail.com)
