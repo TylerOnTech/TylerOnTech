@@ -11,6 +11,18 @@ full-stack SaaS, from multi-tenant database design all the way to the interface.
 
 ## 🚀 Featured work
 
+### [CarrierBridge](https://github.com/TylerOnTech/CarrierBridge) · Integration engine
+
+Pulls insurance policies from carriers that each work differently (a modern OAuth REST API, a legacy
+XML-bridged service, and a portal only a headless browser can read) and normalizes them into one
+versioned `NormalizedPolicy` contract behind an async API. It runs on a Postgres task queue with leases
+and fencing tokens, isolates partial failures, retries at two layers, and encrypts credentials while they
+wait. Backed by 164 tests.
+
+`TypeScript` `Node.js 22` `Express 5` `PostgreSQL 16` `Prisma` `Zod` `Playwright` `Vitest` `Docker Compose`
+
+[Code](https://github.com/TylerOnTech/CarrierBridge) · [Design decisions](https://github.com/TylerOnTech/CarrierBridge/blob/main/docs/design-decisions.md) · [Case study](https://tylerontech.github.io/#work)
+
 ### BindHQ · TyKu Technologies
 
 An agency management system and CRM for independent insurance agencies. It's a true multi-tenant SaaS,
