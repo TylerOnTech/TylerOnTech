@@ -23,6 +23,18 @@ wait. Backed by 164 tests.
 
 [Code](https://github.com/TylerOnTech/CarrierBridge) · [Design decisions](https://github.com/TylerOnTech/CarrierBridge/blob/main/docs/design-decisions.md) · [Case study](https://tylerontech.github.io/#work)
 
+### [CarrierChaos](https://github.com/TylerOnTech/CarrierChaos) · Reliability engine
+
+Retrieves insurance policy data correctly even when carrier APIs are slow, rate-limited, flaky, down,
+or wrong. Concurrent jobs run against mock carriers that fail on purpose, and the infrastructure
+responds with per-carrier queues, circuit breakers, Redis rate limits, bounded retries that honor
+`Retry-After`, hard timeouts, dead-letter replay, and fenced effectively-once results. Backed by 198
+tests, four reproducible experiments, and a 1,000-job load test.
+
+`TypeScript` `Node.js 22` `Express 5` `BullMQ` `Redis` `PostgreSQL` `Prisma 7` `Zod` `Prometheus` `Vitest`
+
+[Code](https://github.com/TylerOnTech/CarrierChaos) · [Experiment results](https://github.com/TylerOnTech/CarrierChaos/blob/main/docs/results/EXPERIMENTS.md) · [Case study](https://tylerontech.github.io/#work)
+
 ### BindHQ · TyKu Technologies
 
 An agency management system and CRM for independent insurance agencies. It's a true multi-tenant SaaS,
