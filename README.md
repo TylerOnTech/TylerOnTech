@@ -35,6 +35,18 @@ tests, four reproducible experiments, and a 1,000-job load test.
 
 [Code](https://github.com/TylerOnTech/CarrierChaos) · [Experiment results](https://github.com/TylerOnTech/CarrierChaos/blob/main/docs/results/EXPERIMENTS.md) · [Case study](https://tylerontech.github.io/#work)
 
+### [PolicyWatch](https://github.com/TylerOnTech/PolicyWatch) · Event-driven monitoring
+
+Polls carrier APIs in three different formats (camelCase JSON, snake_case JSON, ACORD-style XML),
+normalizes them into one contract, detects meaningful policy changes (cancellations, renewals, premium
+and coverage changes, vehicles added or removed), and delivers HMAC-signed webhooks with retries, a
+transactional outbox, SSRF protection, and a full audit trail. Includes Terraform and Ansible for a
+locked-down AWS environment. Backed by 135+ tests.
+
+`TypeScript` `Node.js 22` `Express 5` `PostgreSQL 17` `Prisma` `Redis` `BullMQ` `Terraform` `Ansible` `AWS`
+
+[Code](https://github.com/TylerOnTech/PolicyWatch) · [Architecture](https://github.com/TylerOnTech/PolicyWatch/blob/main/docs/architecture.md) · [Case study](https://tylerontech.github.io/#work)
+
 ### BindHQ · TyKu Technologies
 
 An agency management system and CRM for independent insurance agencies. It's a true multi-tenant SaaS,
