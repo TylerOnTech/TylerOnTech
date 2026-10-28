@@ -52,4 +52,4 @@ knows what's already in your collection. Backed by ~880 automated tests.
 
 ## 🤳 Connect with me
 
-[Portfolio](https://tylerontech.github.io) · [LinkedIn](https://linkedin.com/in/tjkunkel) · [YouTube](https://www.youtube.com/@TylerOnTech) · [Instagram](https://www.instagram.com/really_low/) · [Email](mailto:tylerkunkel1629@gmail.com)
+[Portfolio](https://tylerontech.github.io) · [LinkedIn](https://linkedin.com/in/tjkunkel) · [YouTube](https://www.youtube.com/@TylerOnTech) · [Instagram](https://www.instagram.com/really_low/) · [Email](mailto:tkunkel1629@gmail.com)
